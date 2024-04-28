@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-yonturk&" alt="yusuf-yonturk" /></p>
 
-![snake gif](https://github.com/Yusuf-Yonturk/Yusuf-Yonturk/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yusuf-yonturk/yusuf-yonturk/blob/output/github-contribution-grid-snake.gif)
