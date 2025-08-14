@@ -1,6 +1,6 @@
 ![MasterHead](https://invozone.com/static/9aef9cdb4d9d58c3fd42293ad15f3cb5/fastest_growing_programming_languages_e6fd2f2785.webp)
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">I'm Yusuf, a software engineering student currently studying at Beykoz University. My passion for technology and curiosity constantly drive me to learn new things and improve myself in the world of software.</h3>
+<h3 align="center">I'm Yusuf, a software engineering student currently studying at Fırat University. My passion for technology and curiosity constantly drive me to learn new things and improve myself in the world of software.</h3>
 
 - 🔭 I’m currently working on **Arduino, Raspberry Pi**
 
