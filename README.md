@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I'm Yusuf, a software engineering student currently studying at Fırat University. My passion for technology and curiosity constantly drive me to learn new things and improve myself in the world of software.</h3>
 
-- 🔭 I’m currently working on **Arduino, Raspberry Pi**
-
-- 💬 Ask me about **IoT**
+- 🔭 I’m currently working on **Python**
 
 - 📫 How to reach me **yusufyonturk.kisisel@gmail.com**
 
