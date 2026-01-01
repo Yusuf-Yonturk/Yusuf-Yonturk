@@ -16,3 +16,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>LinkedIn</small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;<small>Contact</small>
 </p>
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Active coder. All projects (personal & shared) are currently private.</small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
