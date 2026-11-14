@@ -1,4 +1,4 @@
-<img width="1024" height="645" alt="image" src="https://raw.githubusercontent.com/Yusuf-Yonturk/assets/main/maaaaa.jpeg" />
+<img width="100%" alt="Banner" src="https://raw.githubusercontent.com/Yusuf-Yonturk/assets/main/maaaaa.jpeg" />
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://yusufyonturk.com" style="text-decoration: none;">
